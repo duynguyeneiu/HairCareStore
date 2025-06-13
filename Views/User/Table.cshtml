@@ -4,7 +4,6 @@
 @{
     Layout = "_AdminLayout";
 }
-<p>Tôi đã đến đây</p>
 @model List<HairCareStore.Models.User>
 
 <section class="UserList List">
@@ -36,13 +35,13 @@
                     <td>@item.Phone</td>
                     <td>@item.Email</td>
                     <td>@item.Address</td>
-                    <td>@item.Role</td>
+                    <td>@item.Role.Name</td>
                     
                     <td>
                         <div class="btn-group" role="group" aria-label="Basic mixed styles example">
 
-                            <a href="@Url.Action("Edit","Product",new {id= item.UserId})" type="button" class="btn btn-warning">Edit</a>
-                            <a href="@Url.Action("Delete","Product",new {id= item.UserId})" type="button" class="btn btn-danger">Delete</a>
+                            <a href="@Url.Action("Edit","User",new {id= item.UserId})" type="button" class="btn btn-warning">Edit</a>
+                            <a href="@Url.Action("Delete","User",new {id= item.UserId})" type="button" class="btn btn-danger">Delete</a>
                         </div>
 
                     </td>

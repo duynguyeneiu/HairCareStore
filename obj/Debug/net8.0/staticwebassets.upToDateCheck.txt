@@ -69,6 +69,7 @@ wwwroot\img\testimonial-1.jpg
 wwwroot\img\Users\amanda_avatar.jpg
 wwwroot\img\Users\david_avatar.jpg
 wwwroot\img\Users\emily_avatar.jpg
+wwwroot\img\Users\funny-cartoon-monster-character-illustration-of-cute-and-happy-mythical-alien-creature-halloween-design-700-264462907.jpg
 wwwroot\img\Users\jennifer_avatar.jpg
 wwwroot\img\Users\john_avatar.jpg
 wwwroot\img\Users\lisa_avatar.jpg

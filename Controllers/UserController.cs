@@ -48,122 +48,53 @@ namespace HairCareStore.Controllers
             return View(users);
         }
 
-        // GET: ProductController/Create
+        
         public ActionResult Create()
         {
+
+            ViewBag.Role = _context.Role.Select(b => new SelectListItem
+            {
+                Value = b.RoleId.ToString(),
+                Text = b.Name
+            }).ToList();
+
 
             return View();
         }
 
-        // POST: ProductController/Create
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(Product product, IFormFile ImageFile)
+        public async Task<IActionResult> Create(User user, IFormFile ImageFile)
         {
             ModelState.Remove("Avatar");
+            ModelState.Remove("Role");
 
             if (ModelState.IsValid)
             {
                 if (ImageFile != null && ImageFile.Length > 0)
                 {
                     var fileName = Path.GetFileName(ImageFile.FileName);
-                    var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/Products", fileName);
+                    var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/Users", fileName);
 
                     using (var stream = new FileStream(filePath, FileMode.Create))
                     {
                         await ImageFile.CopyToAsync(stream);
                     }
-                    product.ImageUrl = fileName;
+                    user.Avatar = fileName;
                 }
                 else
                 {
-                    product.ImageUrl = "default.jpg";
+                    user.Avatar = "default.jpg";
                 }
-                product.CreatedDate = DateTime.Now;
+                user.CreatedDate = DateTime.Now;
+                
 
-                _context.Add(product);
+                _context.Add(user);
                 await _context.SaveChangesAsync();
-                return RedirectToAction("Table", "Product");
 
-            }
-            else
-            {
-                ViewBag.Brand = _context.Brands.Select(b => new SelectListItem
-                {
-                    Value = b.BrandId.ToString(),
-                    Text = b.Name
-                }).ToList();
-                ViewBag.Category = _context.Categories.Select(c => new SelectListItem
-                {
-                    Value = c.CategoryId.ToString(),
-                    Text = c.Name
-                }).ToList();
-                return View(product);
-            }
-        }
+                return RedirectToAction("Table", "User");
 
-        // GET: ProductController/Edit/5
-        public ActionResult Edit(int id)
-        {
-            var product = _context.Products.FirstOrDefault(b => b.ProductId == id);
-            if (product == null)
-            {
-                return NotFound();
-            }
-
-            ViewBag.Brand = _context.Brands.Select(a => new SelectListItem
-            {
-                Value = a.BrandId.ToString(),
-                Text = a.Name
-            }).ToList();
-
-            ViewBag.Category = _context.Categories.Select(c => new SelectListItem
-            {
-                Value = c.CategoryId.ToString(),
-                Text = c.Name
-            }).ToList();
-            return View(product);
-        }
-
-        // POST: ProductController/Edit/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, Product product, IFormFile? ImageFile)
-        {
-            var CurrentProduct = _context.Products.FirstOrDefault(b => b.ProductId == id);
-            if (CurrentProduct == null)
-            {
-                return NotFound();
-            }
-            ModelState.Remove("ImageUrl");
-
-
-            if (ModelState.IsValid)
-            {
-                if (ImageFile != null && ImageFile.Length > 0)
-                {
-                    var fileName = Path.GetFileName(ImageFile.FileName);
-                    var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/Products", fileName);
-
-                    using (var stream = new FileStream(filePath, FileMode.Create))
-                    {
-                        await ImageFile.CopyToAsync(stream);
-                    }
-                    CurrentProduct.ImageUrl = fileName;
-                }
-
-                CurrentProduct.Name = product.Name;
-                CurrentProduct.Description = product.Description;
-                CurrentProduct.BarCode = product.BarCode;
-
-
-                CurrentProduct.CategoryId = product.CategoryId;
-                CurrentProduct.BrandId = product.BrandId;
-                CurrentProduct.Price = product.Price;
-                CurrentProduct.Quantity = product.Quantity;
-
-                await _context.SaveChangesAsync();
-                return RedirectToAction("Table", "Product");
             }
             else
             {
@@ -173,19 +104,87 @@ namespace HairCareStore.Controllers
                     Console.WriteLine("Fix here: " + error); // Hoặc log ra file
                 }
 
-                ViewBag.Brand = _context.Brands.Select(a => new SelectListItem
+                ViewBag.Role = _context.Role.Select(b => new SelectListItem
                 {
-                    Value = a.BrandId.ToString(),
-                    Text = a.Name
+                    Value = b.RoleId.ToString(),
+                    Text = b.Name
                 }).ToList();
+                return View(user);
+            }
+        }
 
-                ViewBag.Category = _context.Categories.Select(c => new SelectListItem
+        public ActionResult Edit(int id)
+        {
+            var user = _context.Users.FirstOrDefault(b => b.UserId == id);
+            if (user == null)
+            {
+                return NotFound();
+            }
+
+            ViewBag.Role = _context.Role.Select(b => new SelectListItem
+            {
+                Value = b.RoleId.ToString(),
+                Text = b.Name
+            }).ToList();
+            return View(user);
+        }
+
+        // POST: ProductController/Edit/5
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(int id, User user, IFormFile? ImageFile)
+        {
+            var CurrentUser = _context.Users.FirstOrDefault(b => b.UserId == id);
+            if (CurrentUser == null)
+            {
+                return NotFound();
+            }
+            ModelState.Remove("Avatar");
+            ModelState.Remove("Role");
+            ModelState.Remove("Password");
+
+            if (ModelState.IsValid)
+            {
+                if (ImageFile != null && ImageFile.Length > 0)
                 {
-                    Value = c.CategoryId.ToString(),
-                    Text = c.Name
-                }).ToList();
+                    var fileName = Path.GetFileName(ImageFile.FileName);
+                    var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/Users", fileName);
 
-                return View(CurrentProduct);
+                    using (var stream = new FileStream(filePath, FileMode.Create))
+                    {
+                        await ImageFile.CopyToAsync(stream);
+                    }
+                    CurrentUser.Avatar = fileName;
+                }
+
+                CurrentUser.Fullname = user.Fullname;
+                CurrentUser.Description = user.Description;
+                CurrentUser.Email = user.Email;
+                CurrentUser.Phone = user.Phone;
+                CurrentUser.Address = user.Address;
+                CurrentUser.RoleId = user.RoleId;
+
+
+                await _context.SaveChangesAsync();
+                return RedirectToAction("Table", "User");
+            }
+            else
+            {
+                var errors = ModelState.Values.SelectMany(v => v.Errors).Select(e => e.ErrorMessage).ToList();
+                foreach (var error in errors)
+                {
+                    Console.WriteLine("Fix here: " + error); // Hoặc log ra file
+                }
+
+
+                ViewBag.Role = _context.Role.Select(b => new SelectListItem
+                {
+                    Value = b.RoleId.ToString(),
+                    Text = b.Name
+                }).ToList();
+               
+
+                return View(CurrentUser);
             }
         }
 
@@ -197,13 +196,13 @@ namespace HairCareStore.Controllers
                 return NotFound();
 
             }
-            var product = await _context.Products.FirstOrDefaultAsync(b => b.ProductId == id);
-            if (product == null)
+            var user = await _context.Users.FirstOrDefaultAsync(b => b.UserId == id);
+            if (user == null)
             {
                 return NotFound();
             }
 
-            return View(product);
+            return View(user);
 
         }
 
@@ -212,12 +211,12 @@ namespace HairCareStore.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Delete(int id)
         {
-            var product = await _context.Products.FindAsync(id);
-            if (product == null)
+            var user = await _context.Users.FindAsync(id);
+            if (user == null)
             {
                 return NotFound();
             }
-            _context.Products.Remove(product);
+            _context.Users.Remove(user);
             await _context.SaveChangesAsync();
             return RedirectToAction("Table", "Product");
         }
