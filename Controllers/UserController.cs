@@ -218,7 +218,7 @@ namespace HairCareStore.Controllers
             }
             _context.Users.Remove(user);
             await _context.SaveChangesAsync();
-            return RedirectToAction("Table", "Product");
+            return RedirectToAction("Table", "User");
         }
     }
 }

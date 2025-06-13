@@ -22,6 +22,8 @@ namespace HairCareStore.Controllers
             {
                 return NotFound();
             }
+
+
             ViewBag.Products = products;
 
 
