@@ -39,6 +39,6 @@ public partial class User
 
     public virtual Role Role { get; set; } = null!;
 
-    public virtual ICollection<UserRole> UserRoles { get; set; } = new List<UserRole>();
+    public virtual ICollection<UserRole> UserRole { get; set; } = new List<UserRole>();
     public virtual ICollection<Order>? Orders { get; set; }
 }

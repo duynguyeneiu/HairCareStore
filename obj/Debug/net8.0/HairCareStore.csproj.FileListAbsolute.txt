@@ -170,3 +170,5 @@ E:\CSE 443_.Net Programming\1. Project\HairCareStore\obj\Debug\net8.0\refint\Hai
 E:\CSE 443_.Net Programming\1. Project\HairCareStore\obj\Debug\net8.0\HairCareStore.pdb
 E:\CSE 443_.Net Programming\1. Project\HairCareStore\obj\Debug\net8.0\HairCareStore.genruntimeconfig.cache
 E:\CSE 443_.Net Programming\1. Project\HairCareStore\obj\Debug\net8.0\ref\HairCareStore.dll
+E:\CSE 443_.Net Programming\1. Project\HairCareStore\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\CSE 443_.Net Programming\1. Project\HairCareStore\obj\Debug\net8.0\HairCareStore.sourcelink.json

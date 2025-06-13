@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "j244s2kiUQYy7J9ma5YhxE8Sd7Q5fAB1qSh22u/+100=",
+  "Hash": "V9nkxl2eYuPinPUd3USY5rlL38r606jNXTia2w+JrV0=",
   "Source": "HairCareStore",
   "BasePath": "_content/HairCareStore",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "849ll6e8sh",
-      "Integrity": "aA7OFdDHlCNdSEdOn6lMMGAzfTMmh1QHjdrztCIy7wQ=",
+      "Fingerprint": "c4nwbxl6l1",
+      "Integrity": "DBxLNvoRHE5Mww2CIkNvNoLYGPcB0BGgFztV0+QJSUM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\AdminStyle.css"
@@ -136,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ddd1r9f1fe",
-      "Integrity": "DxcEbYRszHaap7Ni8auJihETLeHKMUNbNiDOLJ1RFRY=",
+      "Fingerprint": "9b9t5o2r5q",
+      "Integrity": "m8avbt4kF0/OxqyEvwtKXYNWYbSfoWcvlO2EsdPHx9w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
@@ -1172,6 +1172,27 @@
       "OriginalItemSpec": "wwwroot\\img\\payment.png"
     },
     {
+      "Identity": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\Ảnh 4x6.jpg",
+      "SourceId": "HairCareStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\",
+      "BasePath": "_content/HairCareStore",
+      "RelativePath": "img/Products/Ảnh 4x6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "69f1mqa4b2",
+      "Integrity": "ht4jv51CDbTvnDpFq8Re32Wd2iQh2AdCTUA4N6HUWBY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Products\\Ảnh 4x6.jpg"
+    },
+    {
       "Identity": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\argan_oil.jpg",
       "SourceId": "HairCareStore",
       "SourceType": "Discovered",
@@ -1338,6 +1359,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Products\\hydrating_mask.jpg"
+    },
+    {
+      "Identity": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\logo.jpg",
+      "SourceId": "HairCareStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\",
+      "BasePath": "_content/HairCareStore",
+      "RelativePath": "img/Products/logo#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "66bg5n5hqe",
+      "Integrity": "jg0wX91Rxmc+t36PLLZQstpft7iPJrhQoxDk/piRmVo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Products\\logo.jpg"
     },
     {
       "Identity": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\repair_shampoo.jpg",
@@ -8251,7 +8293,7 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/AdminStyle.849ll6e8sh.css",
+      "Route": "css/AdminStyle.c4nwbxl6l1.css",
       "AssetFile": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\css\\AdminStyle.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8261,7 +8303,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "924"
+          "Value": "907"
         },
         {
           "Name": "Content-Type",
@@ -8269,11 +8311,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aA7OFdDHlCNdSEdOn6lMMGAzfTMmh1QHjdrztCIy7wQ=\""
+          "Value": "\"DBxLNvoRHE5Mww2CIkNvNoLYGPcB0BGgFztV0+QJSUM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 05:22:28 GMT"
+          "Value": "Thu, 12 Jun 2025 06:20:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8283,7 +8325,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "849ll6e8sh"
+          "Value": "c4nwbxl6l1"
         },
         {
           "Name": "label",
@@ -8291,7 +8333,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aA7OFdDHlCNdSEdOn6lMMGAzfTMmh1QHjdrztCIy7wQ="
+          "Value": "sha256-DBxLNvoRHE5Mww2CIkNvNoLYGPcB0BGgFztV0+QJSUM="
         }
       ]
     },
@@ -8306,7 +8348,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "924"
+          "Value": "907"
         },
         {
           "Name": "Content-Type",
@@ -8314,11 +8356,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aA7OFdDHlCNdSEdOn6lMMGAzfTMmh1QHjdrztCIy7wQ=\""
+          "Value": "\"DBxLNvoRHE5Mww2CIkNvNoLYGPcB0BGgFztV0+QJSUM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Jun 2025 05:22:28 GMT"
+          "Value": "Thu, 12 Jun 2025 06:20:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8328,7 +8370,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aA7OFdDHlCNdSEdOn6lMMGAzfTMmh1QHjdrztCIy7wQ="
+          "Value": "sha256-DBxLNvoRHE5Mww2CIkNvNoLYGPcB0BGgFztV0+QJSUM="
         }
       ]
     },
@@ -8497,6 +8539,51 @@
       ]
     },
     {
+      "Route": "css/style.9b9t5o2r5q.css",
+      "AssetFile": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"m8avbt4kF0/OxqyEvwtKXYNWYbSfoWcvlO2EsdPHx9w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Jun 2025 03:08:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9b9t5o2r5q"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-m8avbt4kF0/OxqyEvwtKXYNWYbSfoWcvlO2EsdPHx9w="
+        }
+      ]
+    },
+    {
       "Route": "css/style.css",
       "AssetFile": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\css\\style.css",
       "Selectors": [],
@@ -8507,7 +8594,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11536"
+          "Value": "11537"
         },
         {
           "Name": "Content-Type",
@@ -8515,11 +8602,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DxcEbYRszHaap7Ni8auJihETLeHKMUNbNiDOLJ1RFRY=\""
+          "Value": "\"m8avbt4kF0/OxqyEvwtKXYNWYbSfoWcvlO2EsdPHx9w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Jun 2025 17:11:50 GMT"
+          "Value": "Fri, 13 Jun 2025 03:08:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8529,52 +8616,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DxcEbYRszHaap7Ni8auJihETLeHKMUNbNiDOLJ1RFRY="
-        }
-      ]
-    },
-    {
-      "Route": "css/style.ddd1r9f1fe.css",
-      "AssetFile": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\css\\style.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11536"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DxcEbYRszHaap7Ni8auJihETLeHKMUNbNiDOLJ1RFRY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Jun 2025 17:11:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ddd1r9f1fe"
-        },
-        {
-          "Name": "label",
-          "Value": "css/style.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DxcEbYRszHaap7Ni8auJihETLeHKMUNbNiDOLJ1RFRY="
+          "Value": "sha256-m8avbt4kF0/OxqyEvwtKXYNWYbSfoWcvlO2EsdPHx9w="
         }
       ]
     },
@@ -12761,6 +12803,88 @@
       ]
     },
     {
+      "Route": "img/Products/Ảnh 4x6.69f1mqa4b2.jpg",
+      "AssetFile": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\Ảnh 4x6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ht4jv51CDbTvnDpFq8Re32Wd2iQh2AdCTUA4N6HUWBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 05:30:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "69f1mqa4b2"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/Ảnh 4x6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ht4jv51CDbTvnDpFq8Re32Wd2iQh2AdCTUA4N6HUWBY="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/Ảnh 4x6.jpg",
+      "AssetFile": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\Ảnh 4x6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ht4jv51CDbTvnDpFq8Re32Wd2iQh2AdCTUA4N6HUWBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 05:30:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ht4jv51CDbTvnDpFq8Re32Wd2iQh2AdCTUA4N6HUWBY="
+        }
+      ]
+    },
+    {
       "Route": "img/Products/argan_oil.0i9r64bpya.jpg",
       "AssetFile": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\argan_oil.jpg",
       "Selectors": [],
@@ -13413,6 +13537,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-/K/9YqvVKYrzVAUFrc+I0++DnIS6aCtTgH5HLuR8buA="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/logo.66bg5n5hqe.jpg",
+      "AssetFile": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4607"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jg0wX91Rxmc+t36PLLZQstpft7iPJrhQoxDk/piRmVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 05:31:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "66bg5n5hqe"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/logo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jg0wX91Rxmc+t36PLLZQstpft7iPJrhQoxDk/piRmVo="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/logo.jpg",
+      "AssetFile": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4607"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jg0wX91Rxmc+t36PLLZQstpft7iPJrhQoxDk/piRmVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Jun 2025 05:31:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jg0wX91Rxmc+t36PLLZQstpft7iPJrhQoxDk/piRmVo="
         }
       ]
     },

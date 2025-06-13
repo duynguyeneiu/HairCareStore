@@ -31,7 +31,7 @@ namespace HairCareStore.Controllers
         public IActionResult Login(string email, string password)
         {
             var user = _context.Users
-                .Include(u => u.UserRoles)
+                .Include(u => u.UserRole)
                 .ThenInclude(ur => ur.Role)
                 .FirstOrDefault(u => u.Email == email);
 
@@ -46,7 +46,7 @@ namespace HairCareStore.Controllers
                     new Claim(ClaimTypes.Name, user.Email),
                     new Claim(ClaimTypes.NameIdentifier, user.UserId.ToString())
                 };
-            claims.AddRange(user.UserRoles.Select(ur => new Claim(ClaimTypes.Role, ur.Role.Name)));
+            claims.AddRange(user.UserRole.Select(ur => new Claim(ClaimTypes.Role, ur.Role.Name)));
             var claimsIdentity = new ClaimsIdentity(claims, "CookieAuth");
             var claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
             HttpContext.SignInAsync("CookieAuth", claimsPrincipal);

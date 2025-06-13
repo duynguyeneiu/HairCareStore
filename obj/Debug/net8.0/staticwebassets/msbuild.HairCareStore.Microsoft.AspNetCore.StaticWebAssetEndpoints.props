@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/HairCareStore/css/AdminStyle.849ll6e8sh.css">
+    <StaticWebAssetEndpoint Include="_content/HairCareStore/css/AdminStyle.c4nwbxl6l1.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\AdminStyle.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"849ll6e8sh"},{"Name":"integrity","Value":"sha256-aA7OFdDHlCNdSEdOn6lMMGAzfTMmh1QHjdrztCIy7wQ="},{"Name":"label","Value":"_content/HairCareStore/css/AdminStyle.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"924"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022aA7OFdDHlCNdSEdOn6lMMGAzfTMmh1QHjdrztCIy7wQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Jun 2025 05:22:28 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c4nwbxl6l1"},{"Name":"integrity","Value":"sha256-DBxLNvoRHE5Mww2CIkNvNoLYGPcB0BGgFztV0\u002BQJSUM="},{"Name":"label","Value":"_content/HairCareStore/css/AdminStyle.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"907"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DBxLNvoRHE5Mww2CIkNvNoLYGPcB0BGgFztV0\u002BQJSUM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Jun 2025 06:20:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HairCareStore/css/AdminStyle.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\AdminStyle.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aA7OFdDHlCNdSEdOn6lMMGAzfTMmh1QHjdrztCIy7wQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"924"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022aA7OFdDHlCNdSEdOn6lMMGAzfTMmh1QHjdrztCIy7wQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Jun 2025 05:22:28 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DBxLNvoRHE5Mww2CIkNvNoLYGPcB0BGgFztV0\u002BQJSUM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"907"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DBxLNvoRHE5Mww2CIkNvNoLYGPcB0BGgFztV0\u002BQJSUM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Jun 2025 06:20:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HairCareStore/css/bootstrap.min.6j3bm6cpjb.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap.min.css'))</AssetFile>
@@ -36,17 +36,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"362"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 09 Jun 2025 11:16:15 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HairCareStore/css/style.9b9t5o2r5q.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9b9t5o2r5q"},{"Name":"integrity","Value":"sha256-m8avbt4kF0/OxqyEvwtKXYNWYbSfoWcvlO2EsdPHx9w="},{"Name":"label","Value":"_content/HairCareStore/css/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11537"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022m8avbt4kF0/OxqyEvwtKXYNWYbSfoWcvlO2EsdPHx9w=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Jun 2025 03:08:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HairCareStore/css/style.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DxcEbYRszHaap7Ni8auJihETLeHKMUNbNiDOLJ1RFRY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"11536"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DxcEbYRszHaap7Ni8auJihETLeHKMUNbNiDOLJ1RFRY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 10 Jun 2025 17:11:50 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/HairCareStore/css/style.ddd1r9f1fe.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ddd1r9f1fe"},{"Name":"integrity","Value":"sha256-DxcEbYRszHaap7Ni8auJihETLeHKMUNbNiDOLJ1RFRY="},{"Name":"label","Value":"_content/HairCareStore/css/style.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11536"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DxcEbYRszHaap7Ni8auJihETLeHKMUNbNiDOLJ1RFRY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 10 Jun 2025 17:11:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-m8avbt4kF0/OxqyEvwtKXYNWYbSfoWcvlO2EsdPHx9w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"11537"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022m8avbt4kF0/OxqyEvwtKXYNWYbSfoWcvlO2EsdPHx9w=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Jun 2025 03:08:03 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HairCareStore/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -744,6 +744,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s2yec4dzb2"},{"Name":"integrity","Value":"sha256-/K/9YqvVKYrzVAUFrc\u002BI0\u002B\u002BDnIS6aCtTgH5HLuR8buA="},{"Name":"label","Value":"_content/HairCareStore/img/Products/hydrating_mask.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"143465"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022/K/9YqvVKYrzVAUFrc\u002BI0\u002B\u002BDnIS6aCtTgH5HLuR8buA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Jun 2025 11:38:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HairCareStore/img/Products/logo.66bg5n5hqe.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Products\logo.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"66bg5n5hqe"},{"Name":"integrity","Value":"sha256-jg0wX91Rxmc\u002Bt36PLLZQstpft7iPJrhQoxDk/piRmVo="},{"Name":"label","Value":"_content/HairCareStore/img/Products/logo.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4607"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022jg0wX91Rxmc\u002Bt36PLLZQstpft7iPJrhQoxDk/piRmVo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Jun 2025 05:31:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HairCareStore/img/Products/logo.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Products\logo.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jg0wX91Rxmc\u002Bt36PLLZQstpft7iPJrhQoxDk/piRmVo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4607"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022jg0wX91Rxmc\u002Bt36PLLZQstpft7iPJrhQoxDk/piRmVo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Jun 2025 05:31:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HairCareStore/img/Products/repair_shampoo.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Products\repair_shampoo.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -779,6 +791,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2o1PQQHFnkSF88jw97fxJq84mWlSmCznhStLfL7FnUQ="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"56183"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00222o1PQQHFnkSF88jw97fxJq84mWlSmCznhStLfL7FnUQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Jun 2025 11:35:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HairCareStore/img/Products/Ảnh 4x6.69f1mqa4b2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Products\Ảnh 4x6.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"69f1mqa4b2"},{"Name":"integrity","Value":"sha256-ht4jv51CDbTvnDpFq8Re32Wd2iQh2AdCTUA4N6HUWBY="},{"Name":"label","Value":"_content/HairCareStore/img/Products/\u1EA2nh 4x6.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"38589"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ht4jv51CDbTvnDpFq8Re32Wd2iQh2AdCTUA4N6HUWBY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Jun 2025 05:30:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HairCareStore/img/Products/Ảnh 4x6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Products\Ảnh 4x6.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ht4jv51CDbTvnDpFq8Re32Wd2iQh2AdCTUA4N6HUWBY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"38589"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ht4jv51CDbTvnDpFq8Re32Wd2iQh2AdCTUA4N6HUWBY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Jun 2025 05:30:58 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HairCareStore/img/single-item.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\single-item.jpg'))</AssetFile>

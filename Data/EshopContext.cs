@@ -27,8 +27,8 @@ public partial class EshopContext : DbContext
     public virtual DbSet<Product> Products { get; set; }
 
     public virtual DbSet<User> Users { get; set; }
-    public virtual DbSet<Role> Roles { get; set; }
-    public virtual DbSet<UserRole> UserRoles { get; set; }
+    public virtual DbSet<Role> Role { get; set; }
+    public virtual DbSet<UserRole> UserRole { get; set; }
 
  
 
@@ -141,11 +141,11 @@ public partial class EshopContext : DbContext
             entity.HasKey(e => new { e.UserId, e.RoleId });
 
             entity.HasOne(ur => ur.User)
-                  .WithMany(u => u.UserRoles)
+                  .WithMany(u => u.UserRole)
                   .HasForeignKey(ur => ur.UserId);
 
             entity.HasOne(ur => ur.Role)
-                  .WithMany(r => r.UserRoles)
+                  .WithMany(r => r.UserRole)
                   .HasForeignKey(ur => ur.RoleId);
         });
 

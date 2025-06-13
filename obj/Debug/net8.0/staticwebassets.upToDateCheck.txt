@@ -51,6 +51,7 @@ wwwroot\img\hero-img.jpg
 wwwroot\img\hero-img-1.png
 wwwroot\img\hero-img-2.jpg
 wwwroot\img\payment.png
+wwwroot\img\Products\Ảnh 4x6.jpg
 wwwroot\img\Products\argan_oil.jpg
 wwwroot\img\Products\funny-cartoon-monster-character-illustration-of-cute-and-happy-mythical-alien-creature-halloween-design-700-264462907.jpg
 wwwroot\img\Products\hair_brush.jpg
@@ -59,6 +60,7 @@ wwwroot\img\Products\hair_dryer.jpg
 wwwroot\img\Products\hair_gel.jpg
 wwwroot\img\Products\hair_spray.jpg
 wwwroot\img\Products\hydrating_mask.jpg
+wwwroot\img\Products\logo.jpg
 wwwroot\img\Products\repair_shampoo.jpg
 wwwroot\img\Products\scrunchies.jpg
 wwwroot\img\Products\smooth_conditioner.jpg
