@@ -44,7 +44,8 @@ namespace HairCareStore.Controllers
             var claims = new List<Claim>
                 {
                     new Claim(ClaimTypes.Name, user.Email),
-                    new Claim(ClaimTypes.NameIdentifier, user.UserId.ToString())
+                    new Claim(ClaimTypes.NameIdentifier, user.UserId.ToString()),
+                    new Claim("RoleId", user.RoleId.ToString())
                 };
             claims.AddRange(user.UserRole.Select(ur => new Claim(ClaimTypes.Role, ur.Role.Name)));
             var claimsIdentity = new ClaimsIdentity(claims, "CookieAuth");

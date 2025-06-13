@@ -1,5 +1,6 @@
 ﻿using HairCareStore.Data;
 using HairCareStore.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -18,7 +19,6 @@ namespace HairCareStore.Controllers
         }
 
 
-        // GET: ProductController
         public ActionResult Index()
         {
             return View();
@@ -46,8 +46,9 @@ namespace HairCareStore.Controllers
                 return NotFound();
             }
 
-            return PartialView("_ProductDetailPartial", product); 
+            return View(product); 
         }
+
         public ActionResult Table()
         {
             var products = _context.Products.Include(p => p.Category).Include(p => p.Brand).ToList();
@@ -58,7 +59,6 @@ namespace HairCareStore.Controllers
             return View(products);
         }
 
-        // GET: ProductController/Create
         public ActionResult Create()
         {
 
@@ -77,7 +77,7 @@ namespace HairCareStore.Controllers
             return View();
         }
 
-        // POST: ProductController/Create
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(Product product, IFormFile ImageFile)
@@ -124,7 +124,6 @@ namespace HairCareStore.Controllers
             }
         }
 
-        // GET: ProductController/Edit/5
         public ActionResult Edit(int id)
         {
             var product = _context.Products.Include(b => b.Brand).Include(b => b.Category).FirstOrDefault(b => b.ProductId == id);
@@ -147,7 +146,7 @@ namespace HairCareStore.Controllers
             return View(product);
         }
 
-        // POST: ProductController/Edit/5
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, Product product, IFormFile? ImageFile)
@@ -211,7 +210,6 @@ namespace HairCareStore.Controllers
             }
         }
 
-        // GET: ProductController/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -229,7 +227,7 @@ namespace HairCareStore.Controllers
 
         }
 
-        // POST: ProductController/Delete/5
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Delete(int id)

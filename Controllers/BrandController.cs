@@ -1,5 +1,6 @@
 ﻿using HairCareStore.Data;
 using HairCareStore.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -18,7 +19,7 @@ namespace HairCareStore.Controllers
             return View();
         }
 
-
+         
         public IActionResult Table()
         {
             var brands = _context.Brands.ToList();
@@ -29,13 +30,14 @@ namespace HairCareStore.Controllers
             return View(brands);
         }
 
+         
         public ActionResult Create()
         {
 
             return View();
         }
 
-        // POST: ProductController/Create
+       
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(Brand brand, IFormFile ImageFile)
@@ -73,7 +75,7 @@ namespace HairCareStore.Controllers
             }
         }
 
-        // GET: ProductController/Edit/5
+         
         public ActionResult Edit(int id)
         {
             var brand = _context.Brands.FirstOrDefault(b => b.BrandId == id);
@@ -84,7 +86,7 @@ namespace HairCareStore.Controllers
             return View(brand);
         }
 
-        // POST: ProductController/Edit/5
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, Brand brand, IFormFile? ImageFile)
@@ -126,7 +128,7 @@ namespace HairCareStore.Controllers
             }
         }
 
-        // GET: ProductController/Delete/5
+         
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -144,7 +146,7 @@ namespace HairCareStore.Controllers
 
         }
 
-        // POST: ProductController/Delete/5
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Delete(int id)

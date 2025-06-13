@@ -230,6 +230,8 @@
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+    height: 400px;
+    align-content: center;
 }
 
 @media (min-width: 992px) {
@@ -586,3 +588,22 @@
         background-color: white;
         position: relative;
     }
+
+
+/*book detail*/
+.books-detail{
+    margin-top:170px;
+}
+.books-detail .col-5 img {
+    width: 100%;
+    height: 100%;
+}
+
+.books-detail span {
+    font-weight: bold;
+}
+
+.books-detail .btn {
+    background-color: #358b00;
+    border: none;
+}

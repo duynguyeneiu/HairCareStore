@@ -1,4 +1,5 @@
 using System.Diagnostics;
+using System.Security.Claims;
 using HairCareStore.Data;
 using HairCareStore.Models;
 using Microsoft.AspNetCore.Mvc;
@@ -35,6 +36,21 @@ namespace HairCareStore.Controllers
         {
             return View();
         }
+        public IActionResult Profile()
+        {
+            if (_context == null)
+            {
+                return NotFound();
+            }
+            var userId = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value);
+            var user = _context.Users.FirstOrDefault(b => b.UserId == userId);
+            if (user == null)
+            {
+                return NotFound();
+            }
+            return View(user);
+        }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

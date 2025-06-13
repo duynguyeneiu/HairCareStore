@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Detail Page";
+    Layout = "_Layout";
+}
+
+@model HairCareStore.Models.Product
+
+<section class="books-detail">
+    <h3 class="section-title  fw-bold text-center">
+        Thông tin chi tiết
+    </h3>
+    <div class="container">
+        <div class="row">
+            <div class="col-5">
+                <img class="img-fluid" src="@Url.Content("~/img/Products/"+Model.ImageUrl)">
+            </div>
+            <div class="col-7">
+                <div class="book-info">
+                    <h4>@Model.Name</h4>
+                    <p><span>Description: </span>@Model.Description</p>
+                    <p><span>Bar code: </span>@Model.BarCode</p>
+                    <p><span>Type: </span>@(Model.Category?.Name ?? "")</p>
+                    <p><span>Brand: </span>@(Model.Brand?.Name ?? "")</p>
+
+                    <div class="col-lg-6">
+                        
+                        <div class="input-group quantity mb-5" style="width: 100px;">
+                            <div class="input-group-btn">
+                                <button class="btn btn-sm btn-minus rounded-circle bg-light border">
+                                    <i class="fa fa-minus"></i>
+                                </button>
+                            </div>
+                            <input type="text" class="form-control form-control-sm text-center border-0" value="1">
+                            <div class="input-group-btn">
+                                <button class="btn btn-sm btn-plus rounded-circle bg-light border">
+                                    <i class="fa fa-plus"></i>
+                                </button>
+                            </div>
+                        </div>
+                        <a href="#" class="btn border border-secondary rounded-pill px-4 py-2 mb-4 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i> Add to cart</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
