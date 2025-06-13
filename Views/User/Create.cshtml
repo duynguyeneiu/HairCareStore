@@ -30,20 +30,30 @@
             <label asp-for="Email" for="inputQuantity" class="form-label">Email</label>
             <input asp-for="Email" id="inputQuantity" class="form-control" type="email" />
         </div>
+        <div class="col-12">
+            <label asp-for="Address" for="inputAddress" class="form-label">Address</label>
+            <input asp-for="Address" id="inputAddress" class=" form-control">
+        </div>
+        <div class="col-md-6">
+            <label for="inputAvatar" class="form-label">Avatar Url</label>
+            <input name="ImageFile" id="inputAvatar" type="file" class="form-control" accept="image/*" />
+        </div>
 
 
 
-        @* <div class="col-md-6"> *@
-        @*     <label for="inputBrand" class="form-label">Brand</label> *@
-        @*     <select asp-for="BrandId" name="BrandId" id="inputBrand" class="form-select"> *@
-        @*         <option value="" selected>--Choose Brand--</option> *@
-        @*         @foreach (var item in (List<SelectListItem>)ViewBag.Brand) *@
-        @*         { *@
-        @*             <option value="@item.Value">@item.Text</option> *@
-        @*         } *@
+        <div class="col-md-6"> 
+            <label for="inputRole" class="form-label">Role</label>
+            <select asp-for="RoleId" name="RoleId" id="inputRole" class="form-select">
+                <option value="" selected>--Choose Role--</option>
+                @foreach (var item in (List<SelectListItem>)ViewBag.Brand)
+                {
+                    <option value="@item.Value">@item.Text</option>
+                }
 
-        @*     </select> *@
-        @* </div> *@
+            </select>
+        </div>
+
+
         @* <div class="col-md-6"> *@
         @*     <label for="inputCategory" class="form-label">Type</label> *@
         @*     <select asp-for="CategoryId" name="CategoryId" id="inputCategory" class="form-select"> *@
@@ -57,18 +67,12 @@
 
        
 
-        @* <div class="col-6"> *@
-        @*     <label asp-for="BarCode" for="inputBarCode" class="form-label">BarCode</label> *@
-        @*     <input asp-for="BarCode" id="inputBarCode" class=" form-control"> *@
-        @* </div> *@
-        @* <div class="col-md-6"> *@
-        @*     <label for="inputAvatar" class="form-label">Image Url</label> *@
-        @*     <input name="ImageFile" id="inputAvatar" type="file" class="form-control" accept="image/*" /> *@
-        @* </div> *@
+        
+        
 
 
-        @* <div class="col-12"> *@
-        @*     <button type="submit" class="btn btn-primary">Create</button> *@
-        @* </div> *@
+        <div class="col-12">
+            <button type="submit" class="btn btn-primary">Create</button>
+        </div>
     </form>
 </section>

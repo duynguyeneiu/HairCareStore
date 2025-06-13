@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5C7E5CE6-EE3D-451E-9243-A31EBB461170}|HairCareStore.csproj|e:\\cse 443_.net programming\\1. project\\haircarestore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C7E5CE6-EE3D-451E-9243-A31EBB461170}|HairCareStore.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5C7E5CE6-EE3D-451E-9243-A31EBB461170}|HairCareStore.csproj|e:\\cse 443_.net programming\\1. project\\haircarestore\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5C7E5CE6-EE3D-451E-9243-A31EBB461170}|HairCareStore.csproj|solutionrelative:views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7E5CE6-EE3D-451E-9243-A31EBB461170}|HairCareStore.csproj|e:\\cse 443_.net programming\\1. project\\haircarestore\\views\\product\\_productdetailpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C7E5CE6-EE3D-451E-9243-A31EBB461170}|HairCareStore.csproj|solutionrelative:views\\product\\_productdetailpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C7E5CE6-EE3D-451E-9243-A31EBB461170}|HairCareStore.csproj|e:\\cse 443_.net programming\\1. project\\haircarestore\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -41,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5C7E5CE6-EE3D-451E-9243-A31EBB461170}|HairCareStore.csproj|e:\\cse 443_.net programming\\1. project\\haircarestore\\data\\eshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C7E5CE6-EE3D-451E-9243-A31EBB461170}|HairCareStore.csproj|solutionrelative:data\\eshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C7E5CE6-EE3D-451E-9243-A31EBB461170}|HairCareStore.csproj|e:\\cse 443_.net programming\\1. project\\haircarestore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C7E5CE6-EE3D-451E-9243-A31EBB461170}|HairCareStore.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C7E5CE6-EE3D-451E-9243-A31EBB461170}|HairCareStore.csproj|e:\\cse 443_.net programming\\1. project\\haircarestore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -155,10 +159,6 @@
       "RelativeMoniker": "D:0:0:{5C7E5CE6-EE3D-451E-9243-A31EBB461170}|HairCareStore.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C7E5CE6-EE3D-451E-9243-A31EBB461170}|HairCareStore.csproj|e:\\cse 443_.net programming\\1. project\\haircarestore\\views\\product\\_productdetailpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5C7E5CE6-EE3D-451E-9243-A31EBB461170}|HairCareStore.csproj|solutionrelative:views\\product\\_productdetailpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5C7E5CE6-EE3D-451E-9243-A31EBB461170}|HairCareStore.csproj|e:\\cse 443_.net programming\\1. project\\haircarestore\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5C7E5CE6-EE3D-451E-9243-A31EBB461170}|HairCareStore.csproj|solutionrelative:views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -234,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "AccountController.cs",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
@@ -243,12 +243,11 @@
               "ViewState": "AgIAAC4AAAAAAAAAAAAIwDAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T03:49:04.161Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -257,12 +256,11 @@
               "ViewState": "AgIAABoAAAAAAAAAAAAhwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T08:20:30.305Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "UserRole.cs",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Models\\UserRole.cs",
               "RelativeDocumentMoniker": "Models\\UserRole.cs",
@@ -271,12 +269,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T06:29:50.393Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "EshopContext.cs",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Data\\EshopContext.cs",
               "RelativeDocumentMoniker": "Data\\EshopContext.cs",
@@ -285,12 +282,50 @@
               "ViewState": "AgIAAHgAAAAAAAAAAAAQwI8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T10:45:09.383Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Create.cshtml",
+              "ToolTip": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T16:48:43.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADwvzMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:42:29.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ProductDetailPartial.cshtml",
+              "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Product\\_ProductDetailPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\_ProductDetailPartial.cshtml",
+              "ToolTip": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Product\\_ProductDetailPartial.cshtml",
+              "RelativeToolTip": "Views\\Product\\_ProductDetailPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T12:12:55.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
@@ -298,25 +333,11 @@
               "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
               "ViewState": "AgIAAGAAAAAAAAAAAAAUwHQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T14:10:25.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T14:10:25.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\User\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\User\\Create.cshtml",
-              "ToolTip": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\User\\Create.cshtml",
-              "RelativeToolTip": "Views\\User\\Create.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAqwDkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T16:48:43.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -324,12 +345,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAEUAAAAAAAAAAAAiwFgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T10:24:10.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T10:24:10.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AccessDenied.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Account\\AccessDenied.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\AccessDenied.cshtml",
@@ -337,12 +357,11 @@
               "RelativeToolTip": "Views\\Account\\AccessDenied.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-12T16:31:35.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T16:31:35.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "style.css",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\css\\style.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
@@ -350,12 +369,11 @@
               "RelativeToolTip": "wwwroot\\css\\style.css",
               "ViewState": "AgIAABoCAAAAAAAAAAAAwCUCAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-10T02:58:40.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T02:58:40.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Role.cs",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Models\\Role.cs",
               "RelativeDocumentMoniker": "Models\\Role.cs",
@@ -363,25 +381,11 @@
               "RelativeToolTip": "Models\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T06:29:38.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T06:29:38.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAADwvzwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T07:42:29.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "site.css",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -389,12 +393,11 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-09T11:16:13.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T11:16:13.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Table.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Product\\Table.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Table.cshtml",
@@ -402,12 +405,11 @@
               "RelativeToolTip": "Views\\Product\\Table.cshtml",
               "ViewState": "AgIAABQAAAAAAAAAAAAUwC0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T14:22:36.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T14:22:36.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Login.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
@@ -419,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
@@ -431,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Error.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
@@ -443,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Table.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\User\\Table.cshtml",
               "RelativeDocumentMoniker": "Views\\User\\Table.cshtml",
@@ -455,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -467,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
@@ -479,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Register.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
@@ -491,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -503,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Product\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
@@ -515,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Delete.cshtml",
@@ -527,7 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Edit.cshtml",
@@ -539,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "BrandController.cs",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Controllers\\BrandController.cs",
               "RelativeDocumentMoniker": "Controllers\\BrandController.cs",
@@ -551,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Table.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Brand\\Table.cshtml",
               "RelativeDocumentMoniker": "Views\\Brand\\Table.cshtml",
@@ -563,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ProductController.cs",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
@@ -575,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Brand\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Brand\\Create.cshtml",
@@ -587,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Brand\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Brand\\Edit.cshtml",
@@ -599,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Brand\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Brand\\Delete.cshtml",
@@ -611,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Create.cshtml",
@@ -623,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Table.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Category\\Table.cshtml",
               "RelativeDocumentMoniker": "Views\\Category\\Table.cshtml",
@@ -635,7 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
@@ -647,7 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "AdminStyle.css",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\css\\AdminStyle.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\AdminStyle.css",
@@ -659,7 +661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "AdminController.cs",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
@@ -671,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
@@ -707,7 +709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "NotFoundPage.cshtml",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Home\\NotFoundPage.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\NotFoundPage.cshtml",
@@ -719,7 +721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "ShopController.cs",
               "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
@@ -740,18 +742,6 @@
               "ViewState": "AgIAAGkAAAAAAAAAAADwv3IAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-06-09T11:33:26.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "_ProductDetailPartial.cshtml",
-              "DocumentMoniker": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Product\\_ProductDetailPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\_ProductDetailPartial.cshtml",
-              "ToolTip": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\Views\\Product\\_ProductDetailPartial.cshtml",
-              "RelativeToolTip": "Views\\Product\\_ProductDetailPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T12:12:55.93Z"
             },
             {
               "$type": "Document",
