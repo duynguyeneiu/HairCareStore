@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9b9t5o2r5q</Fingerprint>
-      <Integrity>m8avbt4kF0/OxqyEvwtKXYNWYbSfoWcvlO2EsdPHx9w=</Integrity>
+      <Fingerprint>eg15ejx29z</Fingerprint>
+      <Integrity>Yt+YCiswYqygw610HB5ZYR6UBCssE0aWJ9RJP9g8WTg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</OriginalItemSpec>
@@ -552,8 +552,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>dwixk9v6h0</Fingerprint>
-      <Integrity>E1qeWYz+q+jdJcJ2JhC574cVOmZLnhjmG0z1V0Ldhg0=</Integrity>
+      <Fingerprint>8vp6baua0t</Fingerprint>
+      <Integrity>dHu/VmgfaIsdsbXm+lzPBqIf3/BEYHND9BR7vDRaDuk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\cart-page-header-img.jpg'))</OriginalItemSpec>
