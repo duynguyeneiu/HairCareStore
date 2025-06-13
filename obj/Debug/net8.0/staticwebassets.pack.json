@@ -1,1575 +1,1575 @@
 {
   "Files": [
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HairCareStore.bundle.scp.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HairCareStore.bundle.scp.css",
       "PackagePath": "staticwebassets\\HairCareStore.75i1s9cpsj.bundle.scp.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\css\\AdminStyle.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\css\\AdminStyle.css",
       "PackagePath": "staticwebassets\\css\\AdminStyle.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\css\\site.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\css\\style.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\favicon.ico",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Banner\\Banner.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Banner\\Banner.jpg",
       "PackagePath": "staticwebassets\\img\\Banner\\Banner.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Banner\\Slide1.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Banner\\Slide1.jpg",
       "PackagePath": "staticwebassets\\img\\Banner\\Slide1.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Banner\\Slide2.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Banner\\Slide2.jpg",
       "PackagePath": "staticwebassets\\img\\Banner\\Slide2.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Banner\\Slide3.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Banner\\Slide3.jpg",
       "PackagePath": "staticwebassets\\img\\Banner\\Slide3.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Banner\\Slide4.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Banner\\Slide4.jpg",
       "PackagePath": "staticwebassets\\img\\Banner\\Slide4.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Brands\\dove_logo.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Brands\\dove_logo.jpg",
       "PackagePath": "staticwebassets\\img\\Brands\\dove_logo.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Brands\\garnier_logo.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Brands\\garnier_logo.jpg",
       "PackagePath": "staticwebassets\\img\\Brands\\garnier_logo.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Brands\\herbal_essences_logo.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Brands\\herbal_essences_logo.jpg",
       "PackagePath": "staticwebassets\\img\\Brands\\herbal_essences_logo.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Brands\\loreal_logo.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Brands\\loreal_logo.jpg",
       "PackagePath": "staticwebassets\\img\\Brands\\loreal_logo.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Brands\\moroccanoil_logo.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Brands\\moroccanoil_logo.jpg",
       "PackagePath": "staticwebassets\\img\\Brands\\moroccanoil_logo.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Brands\\ogx_logo.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Brands\\ogx_logo.jpg",
       "PackagePath": "staticwebassets\\img\\Brands\\ogx_logo.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Brands\\pantene_logo.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Brands\\pantene_logo.jpg",
       "PackagePath": "staticwebassets\\img\\Brands\\pantene_logo.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Brands\\revlon_logo.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Brands\\revlon_logo.jpg",
       "PackagePath": "staticwebassets\\img\\Brands\\revlon_logo.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Brands\\schwarzkopf_logo.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Brands\\schwarzkopf_logo.jpg",
       "PackagePath": "staticwebassets\\img\\Brands\\schwarzkopf_logo.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Brands\\tresemme_logo.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Brands\\tresemme_logo.jpg",
       "PackagePath": "staticwebassets\\img\\Brands\\tresemme_logo.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Categories\\conditioner.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Categories\\conditioner.jpg",
       "PackagePath": "staticwebassets\\img\\Categories\\conditioner.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Categories\\hair_accessories.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Categories\\hair_accessories.jpg",
       "PackagePath": "staticwebassets\\img\\Categories\\hair_accessories.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Categories\\hair_brush.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Categories\\hair_brush.jpg",
       "PackagePath": "staticwebassets\\img\\Categories\\hair_brush.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Categories\\hair_color.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Categories\\hair_color.jpg",
       "PackagePath": "staticwebassets\\img\\Categories\\hair_color.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Categories\\hair_dryer.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Categories\\hair_dryer.jpg",
       "PackagePath": "staticwebassets\\img\\Categories\\hair_dryer.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Categories\\hair_gel.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Categories\\hair_gel.jpg",
       "PackagePath": "staticwebassets\\img\\Categories\\hair_gel.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Categories\\hair_mask.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Categories\\hair_mask.jpg",
       "PackagePath": "staticwebassets\\img\\Categories\\hair_mask.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Categories\\hair_oil.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Categories\\hair_oil.jpg",
       "PackagePath": "staticwebassets\\img\\Categories\\hair_oil.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Categories\\hair_spray.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Categories\\hair_spray.jpg",
       "PackagePath": "staticwebassets\\img\\Categories\\hair_spray.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Categories\\shampoo.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Categories\\shampoo.jpg",
       "PackagePath": "staticwebassets\\img\\Categories\\shampoo.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\argan_oil.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Products\\argan_oil.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\argan_oil.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\funny-cartoon-monster-character-illustration-of-cute-and-happy-mythical-alien-creature-halloween-design-700-264462907.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Products\\funny-cartoon-monster-character-illustration-of-cute-and-happy-mythical-alien-creature-halloween-design-700-264462907.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\funny-cartoon-monster-character-illustration-of-cute-and-happy-mythical-alien-creature-halloween-design-700-264462907.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\hair_brush.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Products\\hair_brush.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\hair_brush.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\hair_color.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Products\\hair_color.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\hair_color.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\hair_dryer.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Products\\hair_dryer.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\hair_dryer.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\hair_gel.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Products\\hair_gel.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\hair_gel.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\hair_spray.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Products\\hair_spray.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\hair_spray.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\hydrating_mask.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Products\\hydrating_mask.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\hydrating_mask.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\logo.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Products\\logo.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\logo.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\repair_shampoo.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Products\\repair_shampoo.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\repair_shampoo.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\scrunchies.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Products\\scrunchies.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\scrunchies.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\smooth_conditioner.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Products\\smooth_conditioner.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\smooth_conditioner.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Products\\Ảnh 4x6.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Products\\Ảnh 4x6.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\Ảnh 4x6.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Users\\amanda_avatar.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Users\\amanda_avatar.jpg",
       "PackagePath": "staticwebassets\\img\\Users\\amanda_avatar.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Users\\david_avatar.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Users\\david_avatar.jpg",
       "PackagePath": "staticwebassets\\img\\Users\\david_avatar.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Users\\emily_avatar.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Users\\emily_avatar.jpg",
       "PackagePath": "staticwebassets\\img\\Users\\emily_avatar.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Users\\jennifer_avatar.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Users\\jennifer_avatar.jpg",
       "PackagePath": "staticwebassets\\img\\Users\\jennifer_avatar.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Users\\john_avatar.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Users\\john_avatar.jpg",
       "PackagePath": "staticwebassets\\img\\Users\\john_avatar.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Users\\lisa_avatar.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Users\\lisa_avatar.jpg",
       "PackagePath": "staticwebassets\\img\\Users\\lisa_avatar.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Users\\mike_avatar.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Users\\mike_avatar.jpg",
       "PackagePath": "staticwebassets\\img\\Users\\mike_avatar.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Users\\robert_avatar.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Users\\robert_avatar.jpg",
       "PackagePath": "staticwebassets\\img\\Users\\robert_avatar.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Users\\sarah_avatar.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Users\\sarah_avatar.jpg",
       "PackagePath": "staticwebassets\\img\\Users\\sarah_avatar.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\Users\\thomas_avatar.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\Users\\thomas_avatar.jpg",
       "PackagePath": "staticwebassets\\img\\Users\\thomas_avatar.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\avatar.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\avatar.jpg",
       "PackagePath": "staticwebassets\\img\\avatar.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\baner-1.png",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\baner-1.png",
       "PackagePath": "staticwebassets\\img\\baner-1.png"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\banner-fruits.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\banner-fruits.jpg",
       "PackagePath": "staticwebassets\\img\\banner-fruits.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\best-product-1.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\best-product-1.jpg",
       "PackagePath": "staticwebassets\\img\\best-product-1.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\best-product-2.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\best-product-2.jpg",
       "PackagePath": "staticwebassets\\img\\best-product-2.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\best-product-3.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\best-product-3.jpg",
       "PackagePath": "staticwebassets\\img\\best-product-3.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\best-product-4.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\best-product-4.jpg",
       "PackagePath": "staticwebassets\\img\\best-product-4.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\best-product-5.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\best-product-5.jpg",
       "PackagePath": "staticwebassets\\img\\best-product-5.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\best-product-6.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\best-product-6.jpg",
       "PackagePath": "staticwebassets\\img\\best-product-6.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\cart-page-header-img.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\cart-page-header-img.jpg",
       "PackagePath": "staticwebassets\\img\\cart-page-header-img.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\featur-1.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\featur-1.jpg",
       "PackagePath": "staticwebassets\\img\\featur-1.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\featur-2.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\featur-2.jpg",
       "PackagePath": "staticwebassets\\img\\featur-2.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\featur-3.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\featur-3.jpg",
       "PackagePath": "staticwebassets\\img\\featur-3.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\fruite-item-1.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\fruite-item-1.jpg",
       "PackagePath": "staticwebassets\\img\\fruite-item-1.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\fruite-item-2.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\fruite-item-2.jpg",
       "PackagePath": "staticwebassets\\img\\fruite-item-2.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\fruite-item-3.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\fruite-item-3.jpg",
       "PackagePath": "staticwebassets\\img\\fruite-item-3.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\fruite-item-4.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\fruite-item-4.jpg",
       "PackagePath": "staticwebassets\\img\\fruite-item-4.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\fruite-item-5.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\fruite-item-5.jpg",
       "PackagePath": "staticwebassets\\img\\fruite-item-5.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\fruite-item-6.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\fruite-item-6.jpg",
       "PackagePath": "staticwebassets\\img\\fruite-item-6.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\hero-img-1.png",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\hero-img-1.png",
       "PackagePath": "staticwebassets\\img\\hero-img-1.png"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\hero-img-2.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\hero-img-2.jpg",
       "PackagePath": "staticwebassets\\img\\hero-img-2.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\hero-img.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\hero-img.jpg",
       "PackagePath": "staticwebassets\\img\\hero-img.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\payment.png",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\payment.png",
       "PackagePath": "staticwebassets\\img\\payment.png"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\single-item.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\single-item.jpg",
       "PackagePath": "staticwebassets\\img\\single-item.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\testimonial-1.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\vegetable-item-1.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\vegetable-item-1.jpg",
       "PackagePath": "staticwebassets\\img\\vegetable-item-1.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\vegetable-item-2.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\vegetable-item-2.jpg",
       "PackagePath": "staticwebassets\\img\\vegetable-item-2.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\vegetable-item-3.png",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\vegetable-item-3.png",
       "PackagePath": "staticwebassets\\img\\vegetable-item-3.png"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\vegetable-item-4.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\vegetable-item-4.jpg",
       "PackagePath": "staticwebassets\\img\\vegetable-item-4.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\vegetable-item-5.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\vegetable-item-5.jpg",
       "PackagePath": "staticwebassets\\img\\vegetable-item-5.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\img\\vegetable-item-6.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\img\\vegetable-item-6.jpg",
       "PackagePath": "staticwebassets\\img\\vegetable-item-6.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\easing\\easing.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\easing\\easing.js",
       "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\easing\\easing.min.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
       "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\lightbox\\images\\close.png",
       "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\lightbox\\images\\loading.gif",
       "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\lightbox\\images\\next.png",
       "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\lightbox\\images\\prev.png",
       "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
       "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\owlcarousel\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\owlcarousel"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\waypoints\\links.php",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\waypoints\\links.php",
       "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\lib\\waypoints\\waypoints.min.js",
       "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\404.html",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\404.html",
       "PackagePath": "staticwebassets\\vegetable-website-template\\404.html"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\LICENSE.txt",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\LICENSE.txt",
       "PackagePath": "staticwebassets\\vegetable-website-template\\LICENSE.txt"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\READ-ME.txt",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\READ-ME.txt",
       "PackagePath": "staticwebassets\\vegetable-website-template\\READ-ME.txt"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\cart.html",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\cart.html",
       "PackagePath": "staticwebassets\\vegetable-website-template\\cart.html"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\chackout.html",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\chackout.html",
       "PackagePath": "staticwebassets\\vegetable-website-template\\chackout.html"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\contact.html",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\contact.html",
       "PackagePath": "staticwebassets\\vegetable-website-template\\contact.html"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\css\\bootstrap.min.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\vegetable-website-template\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\css\\style.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\css\\style.css",
       "PackagePath": "staticwebassets\\vegetable-website-template\\css\\style.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\avatar.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\avatar.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\avatar.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\baner-1.png",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\baner-1.png",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\baner-1.png"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\banner-fruits.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\banner-fruits.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\banner-fruits.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\best-product-1.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\best-product-1.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\best-product-1.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\best-product-2.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\best-product-2.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\best-product-2.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\best-product-3.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\best-product-3.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\best-product-3.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\best-product-4.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\best-product-4.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\best-product-4.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\best-product-5.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\best-product-5.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\best-product-5.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\best-product-6.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\best-product-6.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\best-product-6.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\cart-page-header-img.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\cart-page-header-img.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\cart-page-header-img.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\featur-1.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\featur-1.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\featur-1.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\featur-2.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\featur-2.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\featur-2.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\featur-3.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\featur-3.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\featur-3.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\fruite-item-1.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\fruite-item-1.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\fruite-item-1.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\fruite-item-2.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\fruite-item-2.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\fruite-item-2.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\fruite-item-3.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\fruite-item-3.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\fruite-item-3.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\fruite-item-4.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\fruite-item-4.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\fruite-item-4.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\fruite-item-5.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\fruite-item-5.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\fruite-item-5.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\fruite-item-6.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\fruite-item-6.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\fruite-item-6.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\hero-img-1.png",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\hero-img-1.png",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\hero-img-1.png"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\hero-img-2.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\hero-img-2.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\hero-img-2.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\hero-img.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\hero-img.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\hero-img.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\payment.png",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\payment.png",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\payment.png"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\single-item.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\single-item.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\single-item.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\testimonial-1.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\testimonial-1.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\vegetable-item-1.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\vegetable-item-1.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\vegetable-item-1.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\vegetable-item-2.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\vegetable-item-2.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\vegetable-item-2.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\vegetable-item-3.png",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\vegetable-item-3.png",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\vegetable-item-3.png"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\vegetable-item-4.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\vegetable-item-4.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\vegetable-item-4.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\vegetable-item-5.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\vegetable-item-5.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\vegetable-item-5.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\vegetable-item-6.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\img\\vegetable-item-6.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\img\\vegetable-item-6.jpg"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\index.html",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\index.html",
       "PackagePath": "staticwebassets\\vegetable-website-template\\index.html"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\js\\main.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\js\\main.js",
       "PackagePath": "staticwebassets\\vegetable-website-template\\js\\main.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\easing\\easing.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\easing\\easing.js",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\easing\\easing.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\easing\\easing.min.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\lightbox\\css\\lightbox.min.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\lightbox\\css\\lightbox.min.css",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\lightbox\\css\\lightbox.min.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\lightbox\\images\\close.png",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\lightbox\\images\\close.png",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\lightbox\\images\\close.png"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\lightbox\\images\\loading.gif",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\lightbox\\images\\loading.gif",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\lightbox\\images\\loading.gif"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\lightbox\\images\\next.png",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\lightbox\\images\\next.png",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\lightbox\\images\\next.png"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\lightbox\\images\\prev.png",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\lightbox\\images\\prev.png",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\lightbox\\images\\prev.png"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\lightbox\\js\\lightbox.min.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\lightbox\\js\\lightbox.min.js",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\lightbox\\js\\lightbox.min.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\LICENSE",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\LICENSE",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\owlcarousel"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\owl.carousel.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\waypoints\\links.php",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\waypoints\\links.php",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\waypoints\\links.php"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\waypoints\\waypoints.min.js",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\lib\\waypoints\\waypoints.min.js",
       "PackagePath": "staticwebassets\\vegetable-website-template\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_accordion.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_alert.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_alert.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_badge.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_badge.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_button-group.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_buttons.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_card.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_card.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_carousel.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_close.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_close.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_containers.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_containers.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_dropdown.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_forms.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_forms.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_functions.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_grid.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_grid.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_helpers.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_images.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_images.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_list-group.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_modal.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_modal.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_nav.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_nav.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_pagination.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_popover.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_popover.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_progress.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_progress.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_reboot.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_root.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_root.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_spinners.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_tables.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_tables.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_toasts.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_tooltip.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_transitions.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_type.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_type.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_variables.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\vegetable-website-template\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\shop-detail.html",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\shop-detail.html",
       "PackagePath": "staticwebassets\\vegetable-website-template\\shop-detail.html"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\shop.html",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\shop.html",
       "PackagePath": "staticwebassets\\vegetable-website-template\\shop.html"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\testimonial.html",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\testimonial.html",
       "PackagePath": "staticwebassets\\vegetable-website-template\\testimonial.html"
     },
     {
-      "Id": "E:\\CSE 443_.Net Programming\\1. Project\\HairCareStore\\wwwroot\\vegetable-website-template\\vegetable-website-template.jpg",
+      "Id": "D:\\cse443\\1. Project\\3\\HairCareStore\\wwwroot\\vegetable-website-template\\vegetable-website-template.jpg",
       "PackagePath": "staticwebassets\\vegetable-website-template\\vegetable-website-template.jpg"
     },
     {
