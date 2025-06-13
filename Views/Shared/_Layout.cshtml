@@ -56,7 +56,7 @@
         </div>
         <div class="container px-0">
             <nav class="navbar navbar-light bg-white navbar-expand-xl">
-                <a href="index.html" class="navbar-brand"><h1 class="text-primary display-6">HairCare</h1></a>
+                <a asp-controller="Home" asp-action="Index" class="navbar-brand"><h1 class="text-primary display-6">HairCare</h1></a>
                 <button class="navbar-toggler py-2 px-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="fa fa-bars text-primary"></span>
                 </button>
@@ -74,7 +74,7 @@
                                 <a href="404.html" class="dropdown-item">Demo</a>
                             </div>
                         </div>
-                        <a href="contact.html" class="nav-item nav-link">Contact</a>
+                        <a href="#footer-contact" class="nav-item nav-link">Contact</a>
 
                         @if (User.Identity.IsAuthenticated && User.FindFirst("RoleId")?.Value == "1")
                         {
@@ -121,7 +121,7 @@
 
 
     <!-- Footer Start -->
-    <div class="container-fluid bg-dark text-white-50 footer pt-5 mt-5">
+    <div class="container-fluid bg-dark text-white-50 footer pt-5 mt-5" id="footer-contact">
         <div class="container py-5">
             <div class="pb-4 mb-4" style="border-bottom: 1px solid rgba(226, 175, 24, 0.5) ;">
                 <div class="row g-4">
