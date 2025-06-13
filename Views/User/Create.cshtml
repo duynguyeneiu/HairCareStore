@@ -1,0 +1,74 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_AdminLayout";
+}
+@model HairCareStore.Models.User;
+
+<section class="CreateUser">
+    <h3 class="">Create new user</h3>
+    <form class="row g-3" asp-action="Create" enctype="multipart/form-data">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="col-12">
+            <label asp-for="Fullname" for="inputName" class="form-label">Name</label>
+            <input asp-for="Fullname" type="text" class="form-control" id="inputName" placeholder="">
+        </div>
+        <div class="col-12">
+            <label asp-for="Description" for="inputDescription" class="form-label">Description</label>
+            <textarea asp-for="Description" id="inputDescription" class=" form-control" aria-label="With textarea"></textarea>
+        </div>
+        <div class="col-12">
+            <label asp-for="Password" for="inputPassword" class="form-label">Password</label>
+            <input asp-for="Password" type="password" class="form-control" id="inputPassword" placeholder="Password" name="password">
+        </div>
+        <div class="col-md-6">
+            <label asp-for="Phone" for="inputPrice" class="form-label">Phone</label>
+            <input asp-for="Phone" id="inputPrice" class="form-control" type="tel" pattern="[0-9]{10}" />
+        </div>
+        <div class="col-md-6">
+            <label asp-for="Email" for="inputQuantity" class="form-label">Email</label>
+            <input asp-for="Email" id="inputQuantity" class="form-control" type="email" />
+        </div>
+
+
+
+        @* <div class="col-md-6"> *@
+        @*     <label for="inputBrand" class="form-label">Brand</label> *@
+        @*     <select asp-for="BrandId" name="BrandId" id="inputBrand" class="form-select"> *@
+        @*         <option value="" selected>--Choose Brand--</option> *@
+        @*         @foreach (var item in (List<SelectListItem>)ViewBag.Brand) *@
+        @*         { *@
+        @*             <option value="@item.Value">@item.Text</option> *@
+        @*         } *@
+
+        @*     </select> *@
+        @* </div> *@
+        @* <div class="col-md-6"> *@
+        @*     <label for="inputCategory" class="form-label">Type</label> *@
+        @*     <select asp-for="CategoryId" name="CategoryId" id="inputCategory" class="form-select"> *@
+        @*         <option value="" selected>--Choose Type--</option> *@
+        @*         @foreach (var item in (List<SelectListItem>)ViewBag.Category) *@
+        @*         { *@
+        @*             <option value="@item.Value">@item.Text</option> *@
+        @*         } *@
+        @*     </select> *@
+        @* </div> *@
+
+       
+
+        @* <div class="col-6"> *@
+        @*     <label asp-for="BarCode" for="inputBarCode" class="form-label">BarCode</label> *@
+        @*     <input asp-for="BarCode" id="inputBarCode" class=" form-control"> *@
+        @* </div> *@
+        @* <div class="col-md-6"> *@
+        @*     <label for="inputAvatar" class="form-label">Image Url</label> *@
+        @*     <input name="ImageFile" id="inputAvatar" type="file" class="form-control" accept="image/*" /> *@
+        @* </div> *@
+
+
+        @* <div class="col-12"> *@
+        @*     <button type="submit" class="btn btn-primary">Create</button> *@
+        @* </div> *@
+    </form>
+</section>

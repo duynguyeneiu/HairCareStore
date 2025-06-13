@@ -1,0 +1,70 @@
+﻿.logo {
+    width: 100px;
+    height: 100px;
+}
+
+header i {
+    padding-top: 42px;
+    font-size: 22px;
+    margin: 0px 5px;
+}
+
+.account-icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-top: 40px;
+}
+.list{
+    margin-top:180px;
+}
+
+/*ProductList*/
+
+
+    .List table td > img {
+        height: 50px;
+    }
+
+    .ListList table {
+        text-align: center;
+    }
+
+.List table td, .List table tbody th {
+    vertical-align: middle;
+}
+
+
+
+/*Create View*/
+.Create label {
+    font-weight: bold;
+}
+
+.Create h3 {
+    text-align: center;
+}
+
+
+/*Update View*/
+.EditProduct label {
+    font-weight: bold;
+}
+
+.EditProduct h3 {
+    text-align: center;
+}
+
+.EditProduct img {
+    margin-top: 20px;
+    max-width: 50%;
+    height: auto;
+}
+
+.EditProduct iframe {
+    margin-top: 20px;
+    width: 100%;
+    height: 400px;
+}
+
+

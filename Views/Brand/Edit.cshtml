@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_AdminLayout";
+}
+@model HairCareStore.Models.Brand;
+
+<section class="EditBrand List">
+    <h3 class="">Edit category information</h3>
+    <form class="row g-3" asp-action="Edit" enctype="multipart/form-data">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <input type="hidden" name="BrandId" value="@Model.BrandId" />
+
+        <div class="col-12">
+            <label asp-for="Name" for="inputName" class="form-label">Name</label>
+            <input asp-for="Name" type="text" class="form-control" id="inputName" placeholder="">
+        </div>
+        <div class="col-12">
+            <label asp-for="Description" for="inputDescription" class="form-label">Description</label>
+            <textarea asp-for="Description" id="inputDescription" class=" form-control" aria-label="With textarea"></textarea>
+        </div>
+        <div class="col-md-6">
+            <label for="inputAvatar" class="form-label">Logo Url</label>
+            <input name="ImageFile" id="inputAvatar" type="file" class="form-control" accept="image/*" />
+            <img src="@Url.Content("~/img/Categories/"+@Model.Logo)" />
+        </div>
+
+
+        <div class="col-12">
+            <button type="submit" class="btn btn-primary">Update</button>
+        </div>
+    </form>
+</section>

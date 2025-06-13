@@ -1,0 +1,28 @@
+﻿@{
+    Layout = "_AdminLayout";
+}
+@model HairCareStore.Models.Brand
+
+<h2>Delete Brand</h2>
+
+<p>Are you sure you want to delete this Brand?</p>
+<dl>
+    <dt class="col-sm-6">Brand Name</dt>
+    <dd class="col-sm-6">@Model.Name</dd>
+
+    <dt class="col-sm-6">Description</dt>
+    <dd class="col-sm-6">@Model.Description</dd>
+
+    <dt class="col-sm-6">Avatar</dt>
+    <dd class="col-sm-6">
+        <img src="@Url.Content("~/img/Categories/"+@Model.Logo)" />
+    </dd>
+
+
+
+</dl>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="BrandId" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+</form>

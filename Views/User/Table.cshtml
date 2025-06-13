@@ -1,0 +1,58 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_AdminLayout";
+}
+
+@model List<HairCareStore.Models.User>
+
+<section class="UserList List">
+    <div class="blank"></div>
+    <a href="@Url.Action("Create","User")" type="button" class="btn btn-primary"> + Create new user</a>
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Avatar</th>
+                <th scope="col">Name</th>
+                <th scope="col">Phone</th>
+                <th scope="col">Email</th>
+                <th scope="col">Address</th>
+                <th scope="col">Role</th>
+                <th scope="col">Function</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th scope="row">@item.UserId</th>
+                    <td>
+                        <img src="@Url.Content("~/img/Users/"+@item.Avatar)">
+                    </td>
+                    <td>@item.Fullname</td>
+                    <td>@item.Phone</td>
+                    <td>@item.Email</td>
+                    <td>@item.Address</td>
+                    <td>@item.Role</td>
+                    
+                    <td>
+                        <div class="btn-group" role="group" aria-label="Basic mixed styles example">
+
+                            <a href="@Url.Action("Edit","Product",new {id= item.UserId})" type="button" class="btn btn-warning">Edit</a>
+                            <a href="@Url.Action("Delete","Product",new {id= item.UserId})" type="button" class="btn btn-danger">Delete</a>
+                        </div>
+
+                    </td>
+
+                </tr>
+            }
+
+
+        </tbody>
+    </table>
+</section>
+
+
