@@ -15,7 +15,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HairCareStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47bcfc689bd989c425c3ab8487c457d41410ea72")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be2877137e9a3883f245f0c341883240a5f78cd5")]
+>>>>>>> cd7824df34d93c44b192ec11c62e2cc6bee927b6
 [assembly: System.Reflection.AssemblyProductAttribute("HairCareStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HairCareStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -50,7 +50,10 @@ namespace HairCareStore.Controllers
             }
             return View(user);
         }
+<<<<<<< HEAD
 
+=======
+>>>>>>> cd7824df34d93c44b192ec11c62e2cc6bee927b6
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
